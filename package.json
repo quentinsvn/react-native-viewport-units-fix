@@ -53,7 +53,7 @@
   ],
   "license": "MIT",
   "main": "viewport-units.js",
-  "name": "react-native-viewport-units",
+  "name": "react-native-viewport-units-fix",
   "peerDependencies": {
     "react-native": ">= 0.4.4 < 1.0"
   },
